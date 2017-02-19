@@ -1,0 +1,5 @@
+# begin FM rules
+php_flag engine off
+Order Deny,Allow
+Deny from all
+# end FM rules
